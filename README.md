@@ -1,7 +1,8 @@
 <div align="center">
     <img src="ezDevBanner.svg"/>
 </div>
-Hello! I'm Evan Zhou, a designer and web developer. I love new technologies, and are constantly looking for something interesting to play around with. If you've got something, let me know!
+# 👋 Hi, I'm Evan Zhou.
+A designer and web developer. I love new technologies, and are constantly looking for something interesting to play around with. If you've got something, let me know!
 
 ## ✨ Skills
 
@@ -58,3 +59,8 @@ Other Productivity Tools:
 - Keyboard: Keychron K2 w/ Gateron Brown switches
 - Mouse: Logi MX 2 Anywhere
 - Stand: Rain Design mStand
+
+## 📈 Stats
+> How much do I do what I do?
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvanZhouDev&theme=github)
