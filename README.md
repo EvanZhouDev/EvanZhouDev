@@ -1,6 +1,7 @@
 <div align="center">
     <img src="ezDevBanner.svg"/>
 </div>
+
 # 👋 Hi, I'm Evan Zhou.
 A designer and web developer. I love new technologies, and are constantly looking for something interesting to play around with. If you've got something, let me know!
 
