@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi, I'm Evan Zhou.
-A designer and web developer. I love new technologies, and are constantly looking for something interesting to play around with. If you've got something, let me know!
+A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
 
 ## ✨ Skills
 
