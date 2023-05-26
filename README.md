@@ -5,6 +5,10 @@
 # 👋 Hi, I'm Evan Zhou.
 A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
 
+> Check out my newest project, Google Bard for Raycast. Download it today!
+> 
+> <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/EZDev/raycast-bard-ai"><img src="https://www.raycast.com/EZDev/raycast-bard-ai/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+
 ## ✨ Skills
 
 > What can I do?
