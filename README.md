@@ -1,6 +1,8 @@
-<div align="center">
-    <img src="ezDevBanner.svg"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ezDevBannerDark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./ezDevBannerLight.svg">
+  <img alt="EvanZhouDev Banner" src="./ezDevBannerLight.svg">
+</picture>
 
 # 👋 Hi, I'm Evan Zhou.
 A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
