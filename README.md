@@ -9,7 +9,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 > Check out my newest project, Google Bard for Raycast. Download it today!
 > 
-> <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/EZDev/raycast-bard-ai"><img src="https://www.raycast.com/EZDev/raycast-bard-ai/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+> <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/EvanZhouDev/raycast-bard-ai"><img src="https://www.raycast.com/EvanZhouDev/raycast-bard-ai/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
 ## ✨ Skills
 
