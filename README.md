@@ -56,6 +56,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 Other Productivity Tools:
 
 - Spotlight Search Alternative: [Raycast](https://www.raycast.com/)
+    - Proud [Raycast Pro](https://www.raycast.com/pro) Subscriber!
 - Screenshots: [Shottr](https://shottr.cc/)
 
 ## 💻 Hardware
