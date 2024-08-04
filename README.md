@@ -1,15 +1,27 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./ezDevBannerDark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./ezDevBannerLight.svg">
-  <img alt="EvanZhouDev Banner" src="./ezDevBannerLight.svg">
-</picture>
+<img alt="EvanZhouDev Banner" src="./ezDev2024light.png">
 
-# 👋 Hi, I'm Evan Zhou.
-A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
+> 🏗️ Work in Progress!
 
-> Check out my newest project, Google Bard for Raycast. Download it today!
-> 
-> <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/EvanZhouDev/raycast-bard-ai"><img src="https://www.raycast.com/EvanZhouDev/raycast-bard-ai/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+## My Design Philosphy
+
+<table>
+  <tr>
+    <td>
+      <img alt="EvanZhouDev Banner" src="./define_gradient.png" height="30" width="auto">
+      <p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
+    </td>
+    <td>
+      <img alt="EvanZhouDev Banner" src="./implement_gradient.png"  height="30" width="auto">
+      <p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
+    </td>
+    <td>
+      <img alt="EvanZhouDev Banner" src="./impute_gradient.png"  height="30" width="auto">
+      <p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
+    </td>
+  </tr>
+</table>
+
+_Inspired by The Apple Marketing Philosphy (1977)_
 
 ## ✨ Skills
 
@@ -44,6 +56,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 - HTML5 Canvas
 
 ## 👾 Software
+
 > What's on my computer?
 
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
@@ -56,7 +69,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 Other Productivity Tools:
 
 - Spotlight Search Alternative: [Raycast](https://www.raycast.com/)
-    - Proud [Raycast Pro](https://www.raycast.com/pro) Subscriber!
+  - Proud [Raycast Pro](https://www.raycast.com/pro) Subscriber!
 - Screenshots: [Shottr](https://shottr.cc/)
 
 ## 💻 Hardware
@@ -69,6 +82,7 @@ Other Productivity Tools:
 - Stand: Rain Design mStand
 
 ## 📈 Stats
+
 > How much do I do what I do?
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvanZhouDev&theme=github)
