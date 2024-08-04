@@ -1,8 +1,12 @@
 <img alt="EvanZhouDev Banner" src="./ezDev2024light.png">
 
-> 🏗️ Work in Progress!
+> _"The people who are crazy enough to think they can change the world are the ones who do."_
+
+I'm a developer, designer, and content creator!
 
 ## My Design Philosphy
+
+> _"People don't know what they want until you show it to them."_
 
 <table>
   <tr>
