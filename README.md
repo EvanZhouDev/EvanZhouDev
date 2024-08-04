@@ -6,17 +6,20 @@
 
 <table>
   <tr>
-    <td valign="top" align="center">
+    <td valign="top" align="left" width="33%">
       <img alt="EvanZhouDev Banner" src="./define.png" height="30" width="auto">
       <p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
+      <img alt="EvanZhouDev Banner" src="./buffer.png" height="2">
     </td>
-    <td valign="top" align="center">
+    <td valign="top" align="left" width="33%">
       <img alt="EvanZhouDev Banner" src="./implement.png"  height="30" width="auto">
       <p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
+      <img alt="EvanZhouDev Banner" src="./buffer.png" height="2">
     </td>
-    <td valign="top" align="center">
+    <td valign="top" align="left" width="33%">
       <img alt="EvanZhouDev Banner" src="./impute.png"  height="30" width="auto">
       <p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
+      <img alt="EvanZhouDev Banner" src="./buffer.png" height="2">
     </td>
   </tr>
 </table>
