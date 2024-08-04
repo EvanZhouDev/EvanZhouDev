@@ -1,12 +1,14 @@
 <img alt="EvanZhouDev Banner" src="./ezDev2024light.png">
 
 > _"The people who are crazy enough to think they can change the world are the ones who do."_
+> \- Steve Jobs
 
 I'm a developer, designer, and content creator!
 
 ## My Design Philosphy
 
 > _"People don't know what they want until you show it to them."_
+>\- Steve Jobs
 
 <table>
   <tr>
@@ -27,66 +29,82 @@ I'm a developer, designer, and content creator!
 
 _Inspired by The Apple Marketing Philosphy (1977)_
 
-## ✨ Skills
+## What do I do?
 
-> What can I do?
+- Programming for 8 years
+- Fluent in Javascript and Python, experience in Java, Swift, and more
+- Experienced in Git and GitHub
+- Extensive Artificial Intelligence API design experience
 
-### General
+#### JS Development
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
+- Over 6 years of JS dev experience
+- Worked with both Node and Bun runtimes
+- NPM packages published with over 100,00 downloads
+- Worked with numerous libraries including Puppeteer, Axios,
 
-- Web devlopment
-  - React/JSX
-  - Next.js Framework
-  - Redux
-- Web Scraping
-  - Headless browser control with [Puppeteer](https://pptr.dev/)
-  - Getting general information with [Axios](https://axios-http.com/)
-- UI/Graphic Design
-  - CSS/HTML
+#### Web Development
 
-### Fluent Languages
+- Fluent in React and JSX
+- Extensively worked with Next.js framework
+- Worked with CSS libraries including styled-components and Tailwind
+- Experience in popular libraries and frameworks like Daisy UI, React Redux, useHooks, and more
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,python)](https://skillicons.dev)
+#### Design and Content Creation
 
-- Javascript/JSX
-- Python
-- English
+- Over 4 years of design and 5 years of content creation experience
+- Prototyping and Design with Figma
+- Editing and Animating with Davinci Resolve
+- 3D Modeling with Blender
 
-### JavaScript Specific Toolset
+## What's on my Computer?
 
-- NodeJS
-- NPM
-- HTML5 Canvas
-
-## 👾 Software
-
-> What's on my computer?
-
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
-
-- IDE: [VSCode](https://code.visualstudio.com/)
-- Design Software: [Figma](https://figma.com)
 - Browser: [Arc](https://arc.net/)
+- Screenshots: [Shottr](https://shottr.cc/)
+- App Launcher: [Raycast](https://www.raycast.com/)
 - Keyboard Customizer: [Karabiner Elements](https://karabiner-elements.pqrs.org/)
 
-Other Productivity Tools:
+#### Development
 
-- Spotlight Search Alternative: [Raycast](https://www.raycast.com/)
-  - Proud [Raycast Pro](https://www.raycast.com/pro) Subscriber!
-- Screenshots: [Shottr](https://shottr.cc/)
+- IDE: [VSCode](https://code.visualstudio.com/) with [One Dark Pro theme]()
+- Terminal: [iTerm2]() with Hotkey Window
+- Project Manager: [Developer Directory]() _(Custom Built Tool)_
 
-## 💻 Hardware
+#### Hyperkey
 
-> What do I use?
+My `Caps Lock` key is set to `Hyperkey` (⇧⌘⌥^) to act as an additional modifier. In combination with Raycast, iTerm, and system actions, it's a powerful addition to my keyboard. Here are some of my favorite actions:
 
-- Computer: M1 Macbook Air
-- Keyboard: Keychron K2 w/ Gateron Brown switches
-- Mouse: Logi MX 2 Anywhere
-- Stand: Rain Design mStand
+| Shortcut        | Action                                    |
+| --------------- | ----------------------------------------- |
+| Hyper + `I`     | Open iTerm with Hotkey _(iTerm)_            |
+| Hyper + `D`     | Define Word _(Raycast)_                     |
+| Hyper + `T`     | Translate _(Raycast)_                       |
+| Hyper + `Space` | Search Emojis _(Raycast)_                   |
+| Hyper + `←`     | Resize window to Left Half _(Raycast)_      |
+| Hyper + `→`     | Resize window to Right Half _(Raycast)_     |
+| Hyper + `↑`     | Maximize window to Upmost scale _(Raycast)_ |
+| Hyper + `↓`     | Fullscreen Active App _(Raycast)_           |
+| Hyper + `Enter` | Open Raycast AI Chat _(Raycast)_            |
+| Hyper + `A`     | Apple Intelligence Siri Hotkey _(MacOS)_    |
 
-## 📈 Stats
+<details>
+  <summary>More Actions</summary>
 
-> How much do I do what I do?
+  | Shortcut        | Action                                    |
+  | --------------- | ----------------------------------------- |
+  | Hyper + `C`     | Browse Coding Projects _(Raycast)_         |
+  | Hyper + `P`     | Remaps to ^P _(Karabiner Elements)_        |
+  | Hyper + `N`     | Remaps to ^N _(Karabiner Elements)_        |
+  | Hyper + `L`     | Locate Files with File Search _(Raycast)_  |
+  | Hyper + `[`     | Create Reminder _(Raycast)_                |
+  | Hyper + `]`     | Browser Reminders _(Raycast)_              |
+  | Hyper + `3`     | Screenshot Screen and copy to Clipboard _(Mac Screenshot App)_ |
+  | Hyper + `4`     | Screenshot Area and copy to Clipboard _(Mac Screenshot App)_   |
+  | Hyper + `S`     | Scrolling Screenshot _(Shottr)_            |
+  | Hyper + `O`     | OCR Capture _(Shottr)_                     |
+
+</details>
+
+## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvanZhouDev&theme=github)
