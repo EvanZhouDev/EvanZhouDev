@@ -55,23 +55,23 @@ _Inspired by The Apple Marketing Philosophy (1977)_
 #### JS Development
 
 - Over 6 years of JS dev experience
-- Worked with both Node and Bun runtimes
-- NPM packages published with over 100,00 downloads
-- Worked with numerous libraries including Puppeteer, Axios,
+- Worked with both [Node](https://nodejs.org/en) and [Bun](https://bun.sh/) runtimes
+- NPM packages published with over [100,000 downloads](https://npm-stat.com/charts.html?author=evanzhoudev&from=2020-01-01)
+- Worked with numerous libraries including [Puppeteer](https://pptr.dev/), [Jest](https://jestjs.io/), [Vitest](https://vitest.dev/), and more
 
 #### Web Development
 
-- Fluent in React and JSX
-- Extensively worked with Next.js framework
-- Worked with CSS libraries including styled-components and Tailwind
-- Experience in popular libraries and frameworks like Daisy UI, React Redux, useHooks, and more
+- Fluent in [React](https://vitest.dev/) and JSX
+- Extensively worked with [Next.js](https://nextjs.org/) framework
+- Worked with CSS libraries including [styled-components](https://styled-components.com/) and [Tailwind](https://tailwindcss.com/)
+- Experience in popular libraries and frameworks like [Daisy UI](https://daisyui.com/), [React Redux](https://react-redux.js.org/), [useHooks](https://usehooks.com/), and more
 
 #### Design and Content Creation
 
 - Over 4 years of design and 5 years of content creation experience
-- Prototyping and Design with Figma
-- Editing and Animating with Davinci Resolve
-- 3D Modeling with Blender
+- Prototyping and Design with [Figma](https://www.figma.com/)
+- Editing and Animating with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- 3D Modeling with [Blender](https://www.blender.org/)
 
 ## What's on my Computer?
 
@@ -82,9 +82,8 @@ _Inspired by The Apple Marketing Philosophy (1977)_
 
 #### Development
 
-- IDE: [VSCode](https://code.visualstudio.com/) with [One Dark Pro theme]()
-- Terminal: [iTerm2]() with Hotkey Window
-- Project Manager: [Developer Directory]() _(Custom Built Tool)_
+- IDE: [VSCode](https://code.visualstudio.com/) with [One Dark Pro theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- Terminal: [iTerm2](https://iterm2.com/) with Hotkey Window
 
 #### Hyperkey
 
