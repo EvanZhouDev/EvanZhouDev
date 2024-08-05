@@ -1,6 +1,6 @@
 <img alt="EvanZhouDev Banner" src="./ezDev2024light.png">
 
-> _"The people who are crazy enough to think they can change the world are the ones who do."_ > \- Steve Jobs
+> _"The people who are crazy enough to think they can change the world are the ones who do."_ \- Steve Jobs
 
 Designer, Developer, Content Creator. Building the future, one line of code at a time.
 
@@ -12,17 +12,31 @@ Designer, Developer, Content Creator. Building the future, one line of code at a
 
 > _"People don't know what they want until you show it to them."_ \- Steve Jobs
 
-### Define
-
-<p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
-
-### Implement
-
-<p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
-
-### Impute
-
-<p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
+<table>
+  <tr>
+    <td valign="top" align="left" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./designPhilosophyHeaders/define_dark.png">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/define.png" height="40">
+      </picture>
+      <p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
+    </td>
+    <td valign="top" align="left" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./designPhilosophyHeaders/implement_dark.png">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/implement.png" height="40">
+      </picture>
+      <p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
+    </td>
+    <td valign="top" align="left" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./designPhilosophyHeaders/impute_dark.png">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/impute.png" height="40">
+      </picture>
+      <p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
+    </td>
+  </tr>
+</table>
 
 _Inspired by The Apple Marketing Philosophy (1977)_
 
