@@ -1,9 +1,8 @@
 <img alt="EvanZhouDev Banner" src="./ezDev2024light.png">
 
-> _"The people who are crazy enough to think they can change the world are the ones who do."_
-> \- Steve Jobs
+> _"The people who are crazy enough to think they can change the world are the ones who do."_ > \- Steve Jobs
 
-Developer, Designer, Content Creator. Building the future, one line of code at a time.
+Designer, Developer, Content Creator. Building the future, one line of code at a time.
 
 ## What Do I Do?
 
@@ -11,8 +10,7 @@ Developer, Designer, Content Creator. Building the future, one line of code at a
 
 ## My Design Philosphy
 
-> _"People don't know what they want until you show it to them."_
->\- Steve Jobs
+> _"People don't know what they want until you show it to them."_ >\- Steve Jobs
 
 <table>
   <tr>
@@ -31,10 +29,15 @@ Developer, Designer, Content Creator. Building the future, one line of code at a
   </tr>
 </table>
 
-_Inspired by The Apple Marketing Philosphy (1977)_
+_Inspired by The Apple Marketing Philosophy (1977)_
 
-## What do I do?
+## Skills
 
+<table>
+  <tr>
+    <td valign="top" align="left" width="33%">
+
+#### General Skills
 - Programming for 8 years
 - Fluent in Javascript and Python, experience in Java, Swift, and more
 - Experienced in Git and GitHub
@@ -46,6 +49,8 @@ _Inspired by The Apple Marketing Philosphy (1977)_
 - Worked with both Node and Bun runtimes
 - NPM packages published with over 100,00 downloads
 - Worked with numerous libraries including Puppeteer, Axios,
+    </td>
+    <td valign="top" align="left" width="33%">
 
 #### Web Development
 
@@ -60,6 +65,11 @@ _Inspired by The Apple Marketing Philosphy (1977)_
 - Prototyping and Design with Figma
 - Editing and Animating with Davinci Resolve
 - 3D Modeling with Blender
+    </td>
+  </tr>
+</table>
+
+
 
 ## What's on my Computer?
 
@@ -78,34 +88,34 @@ _Inspired by The Apple Marketing Philosphy (1977)_
 
 My `Caps Lock` key is set to `Hyperkey` (⇧⌘⌥^) to act as an additional modifier. In combination with Raycast, iTerm, and system actions, it's a powerful addition to my keyboard. Here are some of my favorite actions:
 
-| Shortcut        | Action                                    |
-| --------------- | ----------------------------------------- |
-| Hyper + `I`     | Open iTerm with Hotkey _(iTerm)_            |
-| Hyper + `D`     | Define Word _(Raycast)_                     |
-| Hyper + `T`     | Translate _(Raycast)_                       |
-| Hyper + `Space` | Search Emojis _(Raycast)_                   |
-| Hyper + `←`     | Resize window to Left Half _(Raycast)_      |
-| Hyper + `→`     | Resize window to Right Half _(Raycast)_     |
-| Hyper + `↑`     | Maximize window to Upmost scale _(Raycast)_ |
-| Hyper + `↓`     | Fullscreen Active App _(Raycast)_           |
-| Hyper + `Enter` | Open Raycast AI Chat _(Raycast)_            |
-| Hyper + `A`     | Apple Intelligence Siri Hotkey _(MacOS)_    |
+| Shortcut        | Action                                   |
+| --------------- | ---------------------------------------- |
+| Hyper + `I`     | Open iTerm with Hotkey _(iTerm)_         |
+| Hyper + `D`     | Define Word _(Raycast)_                  |
+| Hyper + `T`     | Translate _(Raycast)_                    |
+| Hyper + `Space` | Search Emojis _(Raycast)_                |
+| Hyper + `Enter` | Open Raycast AI Chat _(Raycast)_         |
+| Hyper + `A`     | Apple Intelligence Siri Hotkey _(MacOS)_ |
 
 <details>
   <summary>More Actions</summary>
 
-  | Shortcut        | Action                                    |
-  | --------------- | ----------------------------------------- |
-  | Hyper + `C`     | Browse Coding Projects _(Raycast)_         |
-  | Hyper + `P`     | Remaps to ^P _(Karabiner Elements)_        |
-  | Hyper + `N`     | Remaps to ^N _(Karabiner Elements)_        |
-  | Hyper + `L`     | Locate Files with File Search _(Raycast)_  |
-  | Hyper + `[`     | Create Reminder _(Raycast)_                |
-  | Hyper + `]`     | Browser Reminders _(Raycast)_              |
-  | Hyper + `3`     | Screenshot Screen and copy to Clipboard _(Mac Screenshot App)_ |
-  | Hyper + `4`     | Screenshot Area and copy to Clipboard _(Mac Screenshot App)_   |
-  | Hyper + `S`     | Scrolling Screenshot _(Shottr)_            |
-  | Hyper + `O`     | OCR Capture _(Shottr)_                     |
+| Shortcut    | Action                                                         |
+| ----------- | -------------------------------------------------------------- |
+| Hyper + `←` | Resize window to Left Half _(Raycast)_                         |
+| Hyper + `→` | Resize window to Right Half _(Raycast)_                        |
+| Hyper + `↑` | Maximize window to Upmost scale _(Raycast)_                    |
+| Hyper + `↓` | Fullscreen Active App _(Raycast)_                              |
+| Hyper + `C` | Browse Coding Projects _(Raycast)_                             |
+| Hyper + `P` | Remaps to ^P _(Karabiner Elements)_                            |
+| Hyper + `N` | Remaps to ^N _(Karabiner Elements)_                            |
+| Hyper + `L` | Locate Files with File Search _(Raycast)_                      |
+| Hyper + `[` | Create Reminder _(Raycast)_                                    |
+| Hyper + `]` | Browser Reminders _(Raycast)_                                  |
+| Hyper + `3` | Screenshot Screen and copy to Clipboard _(Mac Screenshot App)_ |
+| Hyper + `4` | Screenshot Area and copy to Clipboard _(Mac Screenshot App)_   |
+| Hyper + `S` | Scrolling Screenshot _(Shottr)_                                |
+| Hyper + `O` | OCR Capture _(Shottr)_                                         |
 
 </details>
 
