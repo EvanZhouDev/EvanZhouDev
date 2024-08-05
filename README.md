@@ -10,34 +10,26 @@ Designer, Developer, Content Creator. Building the future, one line of code at a
 
 ## My Design Philosphy
 
-> _"People don't know what they want until you show it to them."_ >\- Steve Jobs
+> _"People don't know what they want until you show it to them."_ \- Steve Jobs
 
-<table>
-  <tr>
-    <td valign="top" align="left" width="33%">
-      <img alt="EvanZhouDev Banner" src="./define.png" height="30" width="auto">
-      <p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
-    </td>
-    <td valign="top" align="left" width="33%">
-      <img alt="EvanZhouDev Banner" src="./implement.png"  height="30" width="auto">
-      <p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
-    </td>
-    <td valign="top" align="left" width="33%">
-      <img alt="EvanZhouDev Banner" src="./impute.png"  height="30" width="auto">
-      <p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
-    </td>
-  </tr>
-</table>
+### Define
+
+<p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
+
+### Implement
+
+<p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
+
+### Impute
+
+<p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
 
 _Inspired by The Apple Marketing Philosophy (1977)_
 
 ## Skills
 
-<table>
-  <tr>
-    <td valign="top" align="left" width="33%">
-
 #### General Skills
+
 - Programming for 8 years
 - Fluent in Javascript and Python, experience in Java, Swift, and more
 - Experienced in Git and GitHub
@@ -49,8 +41,6 @@ _Inspired by The Apple Marketing Philosophy (1977)_
 - Worked with both Node and Bun runtimes
 - NPM packages published with over 100,00 downloads
 - Worked with numerous libraries including Puppeteer, Axios,
-    </td>
-    <td valign="top" align="left" width="33%">
 
 #### Web Development
 
@@ -65,11 +55,6 @@ _Inspired by The Apple Marketing Philosophy (1977)_
 - Prototyping and Design with Figma
 - Editing and Animating with Davinci Resolve
 - 3D Modeling with Blender
-    </td>
-  </tr>
-</table>
-
-
 
 ## What's on my Computer?
 
