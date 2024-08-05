@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner/ezdevBannerDark">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner/ezdevBannerDark.png">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./banner/ezdevBannerLight.png">
 </picture>
 
