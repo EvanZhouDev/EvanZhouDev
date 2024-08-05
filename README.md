@@ -1,4 +1,7 @@
-<img alt="EvanZhouDev Banner" src="./ezDev2024light.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner/ezdevBannerDark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./banner/ezdevBannerLight.png">
+</picture>
 
 > _"The people who are crazy enough to think they can change the world are the ones who do."_ \- Steve Jobs
 
@@ -17,21 +20,21 @@ Designer, Developer, Content Creator. Building the future, one line of code at a
     <td valign="top" align="left" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./designPhilosophyHeaders/define_dark.png">
-        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/define.png" height="40">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/define.png" height="30">
       </picture>
       <p>Know exactly what you are making and why. If you cannot give a clear <i>definition</i> of your product, that product shouldn’t exist.</p>
     </td>
     <td valign="top" align="left" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./designPhilosophyHeaders/implement_dark.png">
-        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/implement.png" height="40">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/implement.png" height="30">
       </picture>
       <p>A product is designed for its users. The <i>implementation</i> should not only be functional, but intuitive and enjoyable to use.</p>
     </td>
     <td valign="top" align="left" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./designPhilosophyHeaders/impute_dark.png">
-        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/impute.png" height="40">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./designPhilosophyHeaders/impute.png" height="30">
       </picture>
       <p>Even the best product can be overlooked if presented in a careless manner. Present your product in a creative and professional to <i>impute</i> those qualities.</p>
     </td>
