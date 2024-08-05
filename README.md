@@ -41,7 +41,7 @@ Designer, Developer, Content Creator. Building the future, one line of code at a
   </tr>
 </table>
 
-_Inspired by The Apple Marketing Philosophy (1977)_
+_Inspired by [The Apple Marketing Philosophy (1977)](https://www.customerengagementinsider.com/digital-strategy/articles/what-we-can-learn-apple-marketing-philosophy)_
 
 ## Skills
 
