@@ -3,7 +3,11 @@
 > _"The people who are crazy enough to think they can change the world are the ones who do."_
 > \- Steve Jobs
 
-I'm a developer, designer, and content creator!
+Developer, Designer, Content Creator. Building the future, one line of code at a time.
+
+## What Do I Do?
+
+<img alt="EvanZhouDev Banner" src="./skillBento.png">
 
 ## My Design Philosphy
 
